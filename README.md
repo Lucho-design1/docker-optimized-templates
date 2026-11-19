@@ -1,8 +1,5 @@
-# Dockerfiles Multi-Stage Optimizados
+# docker-optimized-templates
 
-Adquiere esta plantilla de despliegue ultrarrápida por solo $5.00 USD.
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
 
-- **PayPal Directo:** [Pagar con PayPal](https://paypal.me/LucianoBenechCenoz)
-- **USDT (TRC20):** `TYndYVBb42q6U79tCm3VQzzhv2FtwAndhc`
-
-Canal de soporte y entrega inmediata: https://t.me/Enjambre666_bot
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
